@@ -1,9 +1,7 @@
 <script setup></script>
 
 <template>
-  <div>
-    <router-view></router-view>
-  </div>
+  <div>userProfile</div>
 </template>
 
 <style scoped></style>
